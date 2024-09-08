@@ -1,0 +1,79 @@
+{
+    "disease_features.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/disease_features.csv.zip",
+        "md5": "0e47a23588430623e049ea82281f9f85",
+        "md5_original": "8b38e95c5d31044deb207d6892130eb4",
+        "date": "2022-04-25"
+    },
+    "drug_features.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/drug_features.csv.zip",
+        "md5": "414892f3798f9bcfe372c3f687c42204",
+        "md5_original": "1eae9bb880675d4a26e9900c400dd4c8",
+        "date": "2022-04-25"
+    },
+    "edges.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/edges.csv.zip",
+        "md5": "952fa782d273b2e90f336c76a3b06908",
+        "md5_original": "5d4d211a22e88544b78fde2735e797bc",
+        "date": "2022-04-25"
+    },
+    "kg.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/kg.csv.zip",
+        "md5": "474d0cd354ffbf3e398affbccd8b36ab",
+        "md5_original": "aac8191d4fbc5bf09cdf8c3c78b4e75f",
+        "date": "2022-04-25"
+    },
+    "kg_giant.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/kg_giant.csv.zip",
+        "md5": "b4ec8347d294077c773ed6d291f994ee",
+        "md5_original": "238077fcb9bcf7f56c81dd9de9f4cf66",
+        "date": "2022-04-25"
+    },
+    "kg_grouped.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/kg_grouped.csv.zip",
+        "md5": "078a3b444342c61324871a30ad5a438a",
+        "md5_original": "d5a62b57e742786b485302cf1f39450e",
+        "date": "2022-04-25"
+    },
+    "kg_grouped_diseases.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/kg_grouped_diseases.csv.zip",
+        "md5": "14899edae247aa9ff476c546873244a7",
+        "md5_original": "1638be1573eefa8820da19bf8ee4ba9f",
+        "date": "2022-04-25"
+    },
+    "kg_grouped_diseases_bert_map.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/kg_grouped_diseases_bert_map.csv.zip",
+        "md5": "34080858ee880744d385ff48ae19fd5e",
+        "md5_original": "a766b7e890ebce73810aee72b49c1171",
+        "date": "2022-04-25"
+    },
+    "kg_raw.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/kg_raw.csv.zip",
+        "md5": "a76ce02d231cbc8ca1d3b6ffe0122fed",
+        "md5_original": "59ad76adf3ba586c36b1c1e071effee1",
+        "date": "2022-04-25"
+    },
+    "nodes.csv.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/nodes.csv.zip",
+        "md5": "0857332c5107fc0154d63f654d91a6db",
+        "md5_original": "7f9ab4109c54049e819ecd14e15a6038",
+        "date": "2022-04-25"
+    },
+    "README.txt.zip": {
+        "version": "2.1",
+        "url": "https://raw.githubusercontent.com/robert-haas/primekg-mirror/main/v2.1/README.txt.zip",
+        "md5": "866298bf21059990175a66a554597c39",
+        "md5_original": "608e37d4808bb97643186a1b6dc8f307",
+        "date": "2022-04-28"
+    }
+}
